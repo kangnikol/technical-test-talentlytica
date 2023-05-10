@@ -1,3 +1,3 @@
 # technical-test-talentlytica
 
-Deployed URL: [](technical-test-talentlytica.vercel.app)
+Deployed URL: [https://technical-test-talentlytica.vercel.app](https://technical-test-talentlytica.vercel.app)
